@@ -1,6 +1,6 @@
-**iOS15 Photo Collections Stack Prototype
+# iOS15 Photo Collections Stack Prototype
 
-#WWDC21 inspiration ✨  
+WWDC21 inspiration ✨  
 
 Recreated my favourite interaction from the upcoming iOS 15 — photo collections stack 💙💛💚
 
